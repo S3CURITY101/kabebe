@@ -25,11 +25,12 @@
                         <input type="text" name="name" value="<?= $name; ?>"class="form-control" placeholder="ENTER YOUR KABEBE HERE" required>
                     </div>
                     <div class="form-group">
-                        <input type="text" name="email" value="<?= $email; ?>"class="form-control" placeholder="ENTER YOUR KABEBE EMAIL" pattern="/^([a-zA-Z0-9_.+])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4}+$/" required>
+                        <input type="email" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" value="<?= $email; ?>"class="form-control" placeholder="ENTER YOUR KABEBE EMAIL" pattern="/^([a-zA-Z0-9_.+])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4}+$/" required>
                     </div>
                     <div class="form-group">
                         <input type="tel" name="mobile" value="<?= $mobile; ?>" class="form-control" placeholder="ENTER YOUR KABEBE CONTACT" required>
                     </div>
+                  
                     <div class="form-group">
                         <input type="hidden" name="oldphoto" value="<?= $photo; ?>">
                         <input type="file" name="photo" value="<?= $photo; ?>"class="custom-file">
