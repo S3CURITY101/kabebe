@@ -1,7 +1,7 @@
 <?php require('header.php');?>
 <?php require('action.php');?>
 
-
+<link rel="stylesheet" href="../custome.css">
 
             <div class="container text-center">
 
@@ -14,7 +14,7 @@
                                 <h4 class="text-dark p-2 rounded bg-light"><?= $vname ?></h4>
                                 <h4 class="text-dark p-2 rounded bg-light"><?= $vemail ?></h4>
                                 <h4 class="text-dark p-2 rounded bg-light"><?= $vmobile ?></h4>
-
+                                <a href="index.php" class="btn btn-success btn-block p-3"><b>BACK HOME</b></a>
                                 
                    
                     
