@@ -1,16 +1,16 @@
-
+README.md
 
 
  THANKS TO THIS FOLLOWING:
- GROUND GURUS WORDPRESS <--- DAMING MALAKAS
- GROUND GURUS SECURITY / NETWORKING
- YOUTUBE
+ GROUND GURUS WORDPRESS <--- DAMING MALAKAS,
+ GROUND GURUS SECURITY / NETWORKING,
+ YOUTUBE,
  BOOTSRAP
  
  
  
  Disclaimer:
-   //WAG BOBO INSIDE.
+   //WAG BOBO INSIDE. PERO LIBRE LAIT.! :D
 
  
 
@@ -28,9 +28,4 @@
 
 
 
-__  __   ______   ______   ______   ______   ______       __     __   ______   ______       ______   ______  ______  
-/\ \/ /  /\  __ \ /\  == \ /\  ___\ /\  == \ /\  ___\     /\ \  _ \ \ /\  ___\ /\  == \     /\  __ \ /\  == \/\  == \ 
-\ \  _"-.\ \  __ \\ \  __< \ \  __\ \ \  __< \ \  __\     \ \ \/ ".\ \\ \  __\ \ \  __<     \ \  __ \\ \  _-/\ \  _-/ 
- \ \_\ \_\\ \_\ \_\\ \_____\\ \_____\\ \_____\\ \_____\    \ \__/".~\_\\ \_____\\ \_____\    \ \_\ \_\\ \_\   \ \_\   
-  \/_/\/_/ \/_/\/_/ \/_____/ \/_____/ \/_____/ \/_____/     \/_/   \/_/ \/_____/ \/_____/     \/_/\/_/ \/_/    \/_/   
                                                                                                                       
